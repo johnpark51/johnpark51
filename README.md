@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm John</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A fast-paced learner with a passion for trying new things!</h3>
 
 - 🌱 I’m currently learning **Typescript, React Native**
 
